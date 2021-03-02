@@ -1,1 +1,9 @@
-fdsfds
+jwt default packge not working laravel 5.8 to updated version
+
+ step 01: Open composer.json file
+          Then require section
+          Then type
+                  "tymon/jwt-auth":"dev-develop"
+                  
+                  
+Final Step: Composer Update
